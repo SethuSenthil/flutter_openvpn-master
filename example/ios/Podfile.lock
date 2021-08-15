@@ -2,21 +2,33 @@ PODS:
   - Flutter (1.0.0)
   - flutter_openvpn (0.0.1):
     - Flutter
+  - fluttertoast (0.0.2):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
   - flutter_openvpn (from `.symlinks/plugins/flutter_openvpn/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
     :path: Flutter
   flutter_openvpn:
     :path: ".symlinks/plugins/flutter_openvpn/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
 
 SPEC CHECKSUMS:
-  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
   flutter_openvpn: 335293c5f1d77003967244406aa744da959f4aa8
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  shared_preferences: 5d0fc5691f4e7293ddfc1b599ca398f8af42f5e7
 
-PODFILE CHECKSUM: 2609452b760cd11039b14039a86564367a3d8ab9
+PODFILE CHECKSUM: a75497545d4391e2d394c3668e20cfb1c2bbd4aa
 
-COCOAPODS: 1.9.1
+COCOAPODS: 1.10.2

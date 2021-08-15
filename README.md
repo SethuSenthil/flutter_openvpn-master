@@ -1,5 +1,5 @@
 # flutter_openvpn
-## Modified by Sethu Senthil, find original at: https://gitlab.com/topfreelancerdeveloper/flutter_openvpn/-/tree/master
+## Forked by Sethu Senthil, find original at: https://gitlab.com/topfreelancerdeveloper/flutter_openvpn/-/tree/master
 
 A new Flutter plugin that uses OpenVpn.
 
